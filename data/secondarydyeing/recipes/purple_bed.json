@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_bed",
+    "ingredients": [
+      {
+        "item": "minecraft:purple_dye"
+      },
+      {
+        "tag": "secondarydyeing:purple_bed"
+      }
+    ],
+    "result": {
+      "item": "minecraft:purple_bed"
+    }
+}

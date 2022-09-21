@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_bed",
+    "ingredients": [
+      {
+        "item": "minecraft:green_dye"
+      },
+      {
+        "tag": "secondarydyeing:green_bed"
+      }
+    ],
+    "result": {
+      "item": "minecraft:green_bed"
+    }
+}

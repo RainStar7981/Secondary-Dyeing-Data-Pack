@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_bed",
+    "ingredients": [
+      {
+        "item": "minecraft:cyan_dye"
+      },
+      {
+        "tag": "secondarydyeing:cyan_bed"
+      }
+    ],
+    "result": {
+      "item": "minecraft:cyan_bed"
+    }
+}
