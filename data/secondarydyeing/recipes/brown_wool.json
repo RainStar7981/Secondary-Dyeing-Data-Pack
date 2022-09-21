@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_wool",
+    "ingredients": [
+      {
+        "item": "minecraft:brown_dye"
+      },
+      {
+        "tag": "secondarydyeing:brown_wool"
+      }
+    ],
+    "result": {
+      "item": "minecraft:brown_wool"
+    }
+}

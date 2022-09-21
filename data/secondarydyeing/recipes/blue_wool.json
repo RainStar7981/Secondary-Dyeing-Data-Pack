@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_wool",
+    "ingredients": [
+      {
+        "item": "minecraft:blue_dye"
+      },
+      {
+        "tag": "secondarydyeing:blue_wool"
+      }
+    ],
+    "result": {
+      "item": "minecraft:blue_wool"
+    }
+}
