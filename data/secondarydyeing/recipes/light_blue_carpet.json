@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondlydyeing:light_blue_carpet"
+            "tag": "secondarydyeing:light_blue_carpet"
         },
         "B":{
             "item": "minecraft:light_blue_dye"
