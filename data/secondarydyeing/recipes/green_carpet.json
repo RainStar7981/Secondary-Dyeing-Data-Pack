@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_carpet",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondlydyeing:green_carpet"
+        },
+        "B":{
+            "item": "minecraft:green_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:green_carpet",
+        "count": 8
+    }
+}

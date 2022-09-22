@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_carpet",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondlydyeing:blue_carpet"
+        },
+        "B":{
+            "item": "minecraft:blue_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:blue_carpet",
+        "count": 8
+    }
+}
