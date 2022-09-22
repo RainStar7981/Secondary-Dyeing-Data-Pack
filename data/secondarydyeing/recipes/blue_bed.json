@@ -3,7 +3,7 @@
     "group": "sd_bed",
     "ingredients": [
       {
-        "item": "minecraft:blue_dye"
+        "tag": "secondarydyeing:aaa_blue"
       },
       {
         "tag": "secondarydyeing:blue_bed"
