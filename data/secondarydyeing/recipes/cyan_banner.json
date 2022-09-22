@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_banner",
+    "ingredients": [
+      {
+        "item": "minecraft:cyan_dye"
+      },
+      {
+        "tag": "secondarydyeing:cyan_banner"
+      }
+    ],
+    "result": {
+      "item": "minecraft:cyan_banner"
+    }
+}

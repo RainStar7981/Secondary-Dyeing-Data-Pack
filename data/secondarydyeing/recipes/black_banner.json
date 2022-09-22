@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_banner",
+    "ingredients": [
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "tag": "secondarydyeing:black_banner"
+      }
+    ],
+    "result": {
+      "item": "minecraft:black_banner"
+    }
+}
