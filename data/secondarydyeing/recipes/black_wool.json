@@ -3,7 +3,7 @@
     "group": "sd_wool",
     "ingredients": [
       {
-        "item": "minecraft:black_dye"
+        "tag": "secondarydyeing:aaa_black"
       },
       {
         "tag": "secondarydyeing:black_wool"
