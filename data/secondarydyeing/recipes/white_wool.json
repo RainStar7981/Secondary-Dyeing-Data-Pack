@@ -3,7 +3,7 @@
     "group": "sd_wool",
     "ingredients": [
       {
-        "item": "minecraft:white_dye"
+        "tag": "secondarydyeing:aaa_white"
       },
       {
         "tag": "secondarydyeing:white_wool"

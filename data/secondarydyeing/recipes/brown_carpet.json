@@ -11,7 +11,7 @@
             "tag": "secondarydyeing:brown_carpet"
         },
         "B":{
-            "item": "minecraft:brown_dye"
+            "tag": "secondarydyeing:aaa_brown"
         }
     },
     "result": {

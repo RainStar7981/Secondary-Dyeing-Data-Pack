@@ -11,7 +11,7 @@
             "tag": "secondarydyeing:white_carpet"
         },
         "B":{
-            "item": "minecraft:white_dye"
+            "tag": "secondarydyeing:aaa_white"
         }
     },
     "result": {

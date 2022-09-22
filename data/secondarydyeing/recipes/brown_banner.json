@@ -3,7 +3,7 @@
     "group": "sd_banner",
     "ingredients": [
       {
-        "item": "minecraft:brown_dye"
+        "tag": "secondarydyeing:aaa_brown"
       },
       {
         "tag": "secondarydyeing:brown_banner"
