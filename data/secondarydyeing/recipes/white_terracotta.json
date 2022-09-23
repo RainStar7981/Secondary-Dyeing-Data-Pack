@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_terracotta",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:white_terracotta"
+        },
+        "B":{
+            "tag": "secondarydyeing:aaa_white"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_terracotta",
+        "count": 8
+    }
+}
