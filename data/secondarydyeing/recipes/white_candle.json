@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_candle",
+    "ingredients": [
+      {
+        "tag": "secondarydyeing:aaa_white"
+      },
+      {
+        "tag": "secondarydyeing:white_candle"
+      }
+    ],
+    "result": {
+      "item": "minecraft:white_candle"
+    }
+}

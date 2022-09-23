@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_candle",
+    "ingredients": [
+      {
+        "tag": "secondarydyeing:aaa_brown"
+      },
+      {
+        "tag": "secondarydyeing:brown_candle"
+      }
+    ],
+    "result": {
+      "item": "minecraft:brown_candle"
+    }
+}
