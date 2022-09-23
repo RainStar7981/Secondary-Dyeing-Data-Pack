@@ -3,13 +3,13 @@
     "group": "sd_candle",
     "ingredients": [
       {
-        "item": "minecraft:cyan_dye"
+        "item": "minecraft:light_gray_dye"
       },
       {
-        "tag": "secondarydyeing:cyan_candle"
+        "tag": "secondarydyeing:light_gray_candle"
       }
     ],
     "result": {
-      "item": "minecraft:cyan_candle"
+      "item": "minecraft:light_gray_candle"
     }
 }
