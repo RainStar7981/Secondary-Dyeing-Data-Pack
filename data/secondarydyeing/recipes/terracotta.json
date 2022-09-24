@@ -1,20 +1,14 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "secondarydyeing:terracotta"
-        },
-        "B":{
-            "item": "minecraft:paper"
-        }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
     },
-    "result": {
-        "item": "minecraft:terracotta",
-        "count": 8
+    {
+      "tag": "secondarydyeing:terracotta"
     }
+  ],
+  "result": {
+    "item": "minecraft:terracotta"
+  }
 }
