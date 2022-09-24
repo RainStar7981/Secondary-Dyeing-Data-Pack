@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "secondarydyeing:glass"
+      },
+      {
+        "item": "minecraft:paper"
+      }
+    ],
+    "result": {
+      "item": "minecraft:glass"
+    }
+}
