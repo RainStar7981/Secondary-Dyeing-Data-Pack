@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sd_terracotta_deglaze",
+    "ingredients": [
+      {
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "minecraft:yellow_glazed_terracotta"
+      }
+    ],
+    "result": {
+      "item": "minecraft:yellow_terracotta"
+    }
+  }
