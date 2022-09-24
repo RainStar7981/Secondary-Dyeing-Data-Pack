@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_horse_armors",
+    "pattern": [
+        "A A",
+        "ABA",
+        "A A"
+    ],
+    "key": {
+        "A":{
+            "item": "minecraft:diamond"
+        },
+        "B":{
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond_horse_armor"
+    }
+}
