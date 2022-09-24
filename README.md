@@ -36,6 +36,6 @@ mj不搞我来搞，于是这个数据包就这样诞生了。
 
 ## 备注
 
-本数据包在[MIT License](https://mit-license.org/)下发布。
+本数据包在[MIT License](https://mit-license.org/)下发布。  
 在[for_dev](for_dev)中有一些我在开发时用到的tag，可能会对你有帮助。  
 本数据包占用了命名空间`secondarydyeing`。
