@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "A A",
+        "ABA"
+    ],
+    "key": {
+        "A":{
+            "item": "minecraft:stick"
+        },
+        "B":{
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:barrel"
+    }
+}
