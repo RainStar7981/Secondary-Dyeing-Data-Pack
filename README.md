@@ -1,6 +1,6 @@
 # Secondary-Dyeing-Data-Pack
 
-添加再次染色和基岩版的原料染色等实用配方的Minecraft数据包
+添加一众实用配方的Minecraft数据包
 
 ## 前言
 
