@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " B ",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:rock_for_stonecutter"
+        },
+        "B":{
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:stonecutter"
+    }
+}
