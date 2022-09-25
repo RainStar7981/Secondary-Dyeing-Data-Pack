@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_concrete_powder",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:orange_concrete_powder"
+        },
+        "B":{
+            "item": "minecraft:orange_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:orange_concrete_powder",
+        "count": 8
+    }
+}

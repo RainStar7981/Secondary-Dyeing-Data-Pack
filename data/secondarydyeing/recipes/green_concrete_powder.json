@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_concrete_powder",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:green_concrete_powder"
+        },
+        "B":{
+            "item": "minecraft:green_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:green_concrete_powder",
+        "count": 8
+    }
+}
