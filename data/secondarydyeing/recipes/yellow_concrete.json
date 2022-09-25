@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_concrete",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:yellow_concrete"
+        },
+        "B":{
+            "item": "minecraft:yellow_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:yellow_concrete",
+        "count": 8
+    }
+}

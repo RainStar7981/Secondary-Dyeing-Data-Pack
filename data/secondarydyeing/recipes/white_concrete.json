@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_concrete",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:white_concrete"
+        },
+        "B":{
+            "tag": "secondarydyeing:aaa_white"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_concrete",
+        "count": 8
+    }
+}

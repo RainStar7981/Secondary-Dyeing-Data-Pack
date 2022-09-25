@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sd_concrete",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "tag": "secondarydyeing:light_gray_concrete"
+        },
+        "B":{
+            "item": "minecraft:light_gray_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_gray_concrete",
+        "count": 8
+    }
+}
