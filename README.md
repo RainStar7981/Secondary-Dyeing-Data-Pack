@@ -1,7 +1,7 @@
 # Secondary-Dyeing-Data-Pack
 
 添加一众实用配方的Minecraft数据包  
-基岩版行为包[见此](https://github.com/RainStar7981/Secondary-Dyeing-Behavior-Pack)(还没做好)。
+基岩版行为包[见此](https://github.com/RainStar7981/Secondary-Dyeing-Behavior-Pack)（还没做好）。
 
 ## 前言
 
