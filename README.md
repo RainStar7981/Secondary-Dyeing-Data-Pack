@@ -1,8 +1,8 @@
 # Secondary-Dyeing-Data-Pack
 
+**本数据包已停止开发。新的项目[见此](https://github.com/RainStar7981/More-Useful-Recipes)。**  
 添加一众实用配方的Minecraft数据包  
 如同这个库的名称一样，本数据包添加了原版物品的再次染色配方，以及一些其他的实用配方。  
-基岩版行为包[见此](https://github.com/RainStar7981/Secondary-Dyeing-Behavior-Pack)（还没做好）。
 
 ## 添加的配方
 
